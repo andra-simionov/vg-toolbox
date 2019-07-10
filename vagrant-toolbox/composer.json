@@ -1,0 +1,7 @@
+{
+    "name": "vanam/vagrant-starter",
+    "type": "project",
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
